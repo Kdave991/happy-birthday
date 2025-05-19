@@ -276,7 +276,7 @@ body {
   }
 
   .idea-6 span {
-    font-size: 5rem;
+    font-size: 3rem; /* Reduced font size for smaller screens */
   }
 
   .six .hat {
